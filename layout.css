@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+ display: flex;
+ align-items: center;
+ justify-content: space-evenly;
+
+
+}
+.box{
+    margin-top: 50px;
+    border: 1px solid black;
+    height: 300px;
+    width: 250px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+button{
+background-color: green;
+color: white;
+width: 120px;
+height: 30px;
+border-radius: 5px;
+}
